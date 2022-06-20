@@ -1,0 +1,1 @@
+For client {id: 1 name: Darius address: Pandurilor email: darius@yahoo.ro age: 23} the bill is: 38.0 RON
